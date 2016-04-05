@@ -10,6 +10,12 @@ files and code for you to use.
 
 https://acrobotic.com
 
+## Credits
+
+Some parts in this repository are based on the following Open-Source files:
+
+NodeMCU v1.0 - https://github.com/prasertsakd/esp8266\_fritzing
+
 ## License
 
 Released under the MIT license. Please check LICENSE.txt for more information. 
