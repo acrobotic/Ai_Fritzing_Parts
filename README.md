@@ -14,7 +14,9 @@ https://acrobotic.com
 
 Some parts in this repository are based on the following Open-Source files:
 
-NodeMCU v1.0 - https://github.com/prasertsakd/esp8266\_fritzing
+NodeMCU v1.0 - https://github.com/prasertsakd/esp8266_fritzing
+HC-SR04 - https://github.com/RafaGS/Fritzing
+DHT-22 - https://github.com/adafruit/Fritzing-Library
 
 ## License
 
